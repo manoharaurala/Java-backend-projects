@@ -1,0 +1,16 @@
+insert into address(id,city,country,date_created,last_updated,line1,line2,pincode,state) values(1,'Kota','India',now(),now(),'House 2-130','Behind VJC kota','576221','Karnataka');
+
+insert into address(id,city,country,date_created,last_updated,line1,line2,pincode,state) values(2,'Saligram','India',now(),now(),'House 1-1201','Behind Mantapa','576223','Karnataka');
+
+insert into address(id,city,country,date_created,last_updated,line1,line2,pincode,state) values(3,'Yedbettu','India',now(),now(),'House 3-120','Gopal Krishna temple','576225','Karnataka');
+
+insert into address(id,city,country,date_created,last_updated,line1,line2,pincode,state) values(4,'Yedbettu','India',now(),now(),'House 3-120','Gopal Krishna temple','576225','Karnataka');
+
+insert into flat(id,date_created,last_updated,number) values(1,now(),now(),'A-01');
+insert into flat(id,date_created,last_updated,number) values(2,now(),now(),'A-02');
+insert into flat(id,date_created,last_updated,number) values(3,now(),now(),'A-03');
+insert into flat(id,date_created,last_updated,number) values(4,now(),now(),'A-04');
+insert into flat(id,date_created,last_updated,number) values(5,now(),now(),'A-05');
+
+
+

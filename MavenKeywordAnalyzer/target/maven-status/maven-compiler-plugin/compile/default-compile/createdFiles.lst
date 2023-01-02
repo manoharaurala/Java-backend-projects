@@ -1,0 +1,5 @@
+DummyKeywordAnalyzer.class
+BasicKeywordAnalyzer.class
+KeywordFrequency.class
+KeywordAnalyzerInterface.class
+KeywordComparator.class
